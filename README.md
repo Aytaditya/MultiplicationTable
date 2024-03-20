@@ -25,6 +25,7 @@ The Multiplication Table Generator App is a simple yet effective tool designed t
 
 ---
 
-## Acknowledgements
+## Contributing
 
-We would like to thank the following individuals and organizations for their contributions to this project:
+Contributions to the Multiplication Table Generator App are welcome. If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request on our GitHub repository.
+
